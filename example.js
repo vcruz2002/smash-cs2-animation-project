@@ -23,7 +23,7 @@ function setup() {
 
 function draw() {
   background(0, 255, 0);
-  //drawSquares(random(30, 60)); // Uncomment this line for some fun!
+   drawSquares(random(30, 60)); // Uncomment this line for some fun!
   drawBall();
 }
 
